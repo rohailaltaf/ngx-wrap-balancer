@@ -1,0 +1,30 @@
+{
+  "name": "ngx-wrap-balancer",
+  "description": "Balanced text wrapping for Angular",
+  "author": "Rohail Altaf <rohailaltaf@gmail.com>",
+  "version": "0.0.1",
+  "keywords": [
+    "angular",
+    "text",
+    "wrap",
+    "balance",
+    "auto",
+    "heading"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohailaltaf/ngx-wrap-balancer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohailaltaf/ngx-wrap-balancer/issues"
+  },
+  "homepage": "https://github.com/rohailaltaf/ngx-wrap-balancer#readme",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "license": "MIT"
+}
